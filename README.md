@@ -6,7 +6,7 @@ Unity match-3 game prototype
 -Grid can be created dynamically via "grid controller"\
 -Goals can be created dynamically via "goal handler"
 
-![match-3](https://github.com/rfazmn/match-3-prototype/assets/32778959/00622a8d-7423-4d3a-a8da-32a86937ae9d)
+![match-3](https://github.com/rfazmn/match-3-prototype/assets/32778959/8670694d-8319-4241-80dd-fa8e70ec29ad)
 
 -Json save load system for pre-built grid and goals
 
